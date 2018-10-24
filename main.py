@@ -10,3 +10,6 @@ from turtle import *
 # Picture
 
 # Text
+print('-----------------')
+print('Postcard')
+print('-----------------')
